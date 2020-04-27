@@ -4,7 +4,7 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>Welcome to Vodafone Jira </title>
+    <title> Welcome to Vodafone Jira </title>
   </head>
   <body>
     <h2>Welcome to Vodafone Jira</h2>
