@@ -7,10 +7,10 @@
     <title>Sample Webapp Vodafone Example </title>
   </head>
   <body>
-    <h2>Sample WebApp Vodafone Example for CI</h2>
-    <h2>1. <a href="employees.html">List of Employees</a></h2>
-    <h2>2. <a href="add.html">Add Employee</a></h2>
-    <h2>3. <a href="fileUpload.html">Upload File</a></h2>
-    <h2>4. <a href="listImages.html">List Images</a></h2>
+    <h2>Welcome to Vodafone Jira</h2>
+    <h2>1. <a href="employees.html">Request access for new users</a></h2>
+    <h2>2. <a href="add.html">CCS Workflow User Guide</a></h2>
+    <h2>3. <a href="fileUpload.html">JIRA FAQS</a></h2>
+    <h2>4. <a href="listImages.html">Contact Administrators</a></h2>
   </body>
 </html>
