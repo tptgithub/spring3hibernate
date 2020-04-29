@@ -4,10 +4,10 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title> Welcome to Vodafone Jira </title>
+    <title> Welcome to Vodafone JIRA </title>
   </head>
   <body>
-    <h2>Welcome to Vodafone Jira</h2>
+    <h2>Welcome to Vodafone JIRA</h2>
     <h2>1. <a href="employees.html">Request access for new users</a></h2>
     <h2>2. <a href="add.html">CCS Workflow User Guide</a></h2>
     <h2>3. <a href="fileUpload.html">JIRA FAQS</a></h2>
